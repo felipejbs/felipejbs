@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Felipe Jerônimo</h1>
 <h3 align="center">Gosto muito da área de analise e engenharia de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Visualização de dados**
+- 🌱 Atualmente estou aprendendo **Airflow**
 
 - 💬 Me pergunte sobre **Pyhon, SQL, Excel, Power BI, Spark, Banco de dados**
 
