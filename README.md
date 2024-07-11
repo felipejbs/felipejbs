@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Airflow**
 
-- 💬 Me pergunte sobre **Pyhon, SQL, Excel, Power BI, Spark, Banco de dados**
+- 💬 Me pergunte sobre **Pyhon, SQL, Excel, Power BI, Spark, Banco de dados, Airflow**
 
 - 📫 Você pode me encontrar através do e-mail **felipejeronimobs@gmail.com**
 
